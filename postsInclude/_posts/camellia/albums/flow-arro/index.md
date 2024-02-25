@@ -12,7 +12,7 @@ permalink: camellia/discography/:title
 
 *flow arrow* is a doujin album by [かめりあ](<{% link postsWiki/_posts/2023-12-10-camellia.md %}>) (Camellia) released on 2013-04-29 (M3-31) by the circle of [るかめりあ](#).
 
-It is the fourth [](https://en.wikipedia.org/wiki/Vocaloid)[](https://en.wikipedia.org/wiki/Vocaloid)[Vocaloid](https://en.wikipedia.org/wiki/Vocaloid) album by *Camellia.*
+It is the fourth [Vocaloid](https://en.wikipedia.org/wiki/Vocaloid) album by *Camellia.*
 
 ### Tracklist
 
