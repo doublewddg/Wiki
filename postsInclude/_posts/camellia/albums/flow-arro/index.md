@@ -26,3 +26,4 @@ Total Length: 00:11:55
 
 * かめりあ – Compose, Lyrics
 * れいたん – Lyrics
+* 初音ミク – Vocals
